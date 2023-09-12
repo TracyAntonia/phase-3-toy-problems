@@ -17,5 +17,5 @@ def to_24_hour(hour, minute, period):
     return time_24_hour
 
 # Testing the codes
-print(to_24_hour(8, 30, "am"))  # Output: "0830"
-print(to_24_hour(12, 0, "pm"))  # Output: "1200"
+print(to_24_hour(8, 30, "am")) 
+print(to_24_hour(12, 0, "pm"))  
